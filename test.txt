@@ -1,0 +1,2 @@
+"New test file" 
+Making test with usage of Git Bash on Windows
